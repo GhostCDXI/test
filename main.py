@@ -1,4 +1,3 @@
-
 from gpt_j.gptj_api import Completion
 context = "This is a calculator bot that will answer basic math questions"
 max_length = 100
